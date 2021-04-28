@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Python 3.8
+
 import json
 import os
 import shutil
